@@ -2,7 +2,7 @@ package June8;
 
 import java.util.*;
 
-public class Solution {
+public class PairSum {
     public static List<int[]> pairSum(int[] arr, int s) {
         Arrays.sort(arr);
         int i = 0;
