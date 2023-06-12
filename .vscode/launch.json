@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DeleteNode",
+            "request": "launch",
+            "mainClass": "June8.DeleteNode",
+            "projectName": "StriverSdeChallenge_ea250915"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Duplicate",
+            "request": "launch",
+            "mainClass": "June5.Duplicate",
+            "projectName": "StriverSdeChallenge_ea250915"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoSorted",
+            "request": "launch",
+            "mainClass": "June5.MergeTwoSorted",
+            "projectName": "StriverSdeChallenge_ea250915"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubSum",
+            "request": "launch",
+            "mainClass": "MaxSubSum",
+            "projectName": "StriverSdeChallenge_ea250915"
+        },
+        {
+            "type": "java",
+            "name": "PascalTriangle",
+            "request": "launch",
+            "mainClass": "PascalTriangle",
+            "projectName": "StriverSdeChallenge_ea250915"
+        },
+        {
+            "type": "java",
+            "name": "RotateMatrix",
+            "request": "launch",
+            "mainClass": "RotateMatrix",
+            "projectName": "StriverSdeChallenge_ea250915"
+        },
+        {
+            "type": "java",
+            "name": "SetZeros",
+            "request": "launch",
+            "mainClass": "SetZeros",
+            "projectName": "StriverSdeChallenge_ea250915"
+        },
+        {
+            "type": "java",
+            "name": "Sort012",
+            "request": "launch",
+            "mainClass": "Sort012",
+            "projectName": "StriverSdeChallenge_ea250915"
+        }
+    ]
+}
