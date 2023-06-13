@@ -1,10 +1,10 @@
 package June13;
 
-public class ListNode {
-    int val;
-    ListNode next;
+class ListNode<T> {
+    T data;
+    ListNode<T> next;
 
-    ListNode(int val) {
-        this.val = val;
+    public ListNode(T data) {
+        this.data = data;
     }
 }
