@@ -7,7 +7,7 @@ public class FibDp {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // int n = scanner.nextInt();
-        // 0 1 1 2 3 5 8 13
+        // 1 1 2 3 5 8 13
         int n = 5;
         int[] dp = new int[n + 1];
         Arrays.fill(dp, -1);
